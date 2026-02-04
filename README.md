@@ -1,3 +1,4 @@
+<img width="1069" height="655" alt="image" src="https://github.com/user-attachments/assets/5c2c03d2-8c32-440c-b044-a4a6c0e0af7c" />
 # -Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
 
 Here is a professionally structured `README.md` for your project. I have organized it to be clear, scannable, and developer-friendly.
